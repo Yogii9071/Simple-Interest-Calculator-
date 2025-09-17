@@ -7,7 +7,7 @@ public class SimpleInterestCalculator {
 
         // Input principal amount
         System.out.print("Enter Principal amount (P): ");
-        double principal = scanner.nextDouble();
+        int principal = scanner.nextDouble();
 
         // Input rate of interest
         System.out.print("Enter Rate of Interest (R) in percentage: ");
